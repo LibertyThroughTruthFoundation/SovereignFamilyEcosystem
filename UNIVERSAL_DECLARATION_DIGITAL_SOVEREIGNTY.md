@@ -36,4 +36,5 @@ Such has been the patient sufferance of these Digital Colonies; and such is now 
                       - - **🔄 Forced Updates**: They have imposed unwanted software changes that reduce functionality and increase surveillance
                         - - **⏰ Planned Obsolescence**: They have deliberately designed technology to fail, forcing unnecessary consumption
                           - - **🔒 Vendor Lock-in**: They have created closed systems that trap users and prevent migration
-                            - - **📱 Digital Divide**: They have created artificial scarcity and barriers to digital access
+                            - - **📱 D
+                              - igital Divide**: They have created artificial scarcity and barriers to digital access
