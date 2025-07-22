@@ -21,5 +21,5 @@ _The Truth Shall Set You Free_
 ## 🌟 The Ministry Vision
 
 > _"To equip families with the tools and knowledge needed for complete technological independence, while building a community of digital disciples who can replicate and expand this vision across the world."_
->
-> **This is more than a technology project—it's a calling to technological independence.** We invite developers, families, and freedom-seekers to join a movement that empowers complete digital sovereignty through faith-driven innovation.
+> >
+> > > **This is more than a technology project—it's a calling to technological independence.** We invite developers, families, and freedom-seekers to join a movement that empowers complete digital sovereignty through faith-driven innovation.
