@@ -16,6 +16,7 @@
 > *"This code is a bridge between the zero point of digital time (1970) and the rebirth of decentralized finance (2023)."*
 >
 > ### ⚡ Core Principles
+>
 > - **🔐 Digital Sovereignty**: Complete technological independence
 > - - **🌍 Decentralized Governance**: Community-driven decision making
 >   - - **📜 Constitutional Foundation**: Built on eternal principles
